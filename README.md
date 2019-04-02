@@ -1,2 +1,2 @@
-# Pinnin-petraus
-Pinni.fi:n kehittäminen
+# HTML-petraus
+HTML-sivun kehittäminen
